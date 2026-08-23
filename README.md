@@ -3,7 +3,7 @@
 <h3 align="center">Senior IT Manager | Enterprise Infrastructure & AI Transformation Leader</h3>
 
 <p align="center">
-  <em>Connecting robust legacy foundations with tomorrow's AI-driven tech ecosystem.</em>
+  <em>Connecting robust legacy foundations with tomorrow's AI driven tech ecosystem.</em>
 </p>
 
 <!-- 2. ÖZEL DÜĞMELER / İLETİŞİM -->
@@ -18,7 +18,7 @@
 
 ## Strategic & Technical Leadership
 
-I am a technology leader and **Senior IT Manager** with nearly two decades of experience leading large-scale IT transformations, cloud migration programs, and enterprise infrastructure operations.
+I am a technology leader and **Senior IT Manager** with nearly two decades of experience leading large scale IT transformations, cloud migration programs, and enterprise infrastructure operations.
 
 My work sits at the intersection of **Enterprise IT, Cloud Infrastructure, Platform Engineering, and Artificial Intelligence**. I focus on building resilient, scalable, secure, and cost-efficient technology environments while modernizing legacy platforms and improving operational efficiency.
 
@@ -31,7 +31,7 @@ I have worked across telecommunications, data centers, and complex enterprise en
 * **Cloud & Infrastructure Engineering:** Azure, VMware, Microsoft technologies, Cisco networking, virtualization, and data center platforms
 * **Platform Engineering & Automation:** Kubernetes, OpenShift, infrastructure automation, container platforms, and modern operating models
 * **Enterprise Modernization:** Cloud migration, application modernization, legacy transformation, and infrastructure lifecycle management
-* **AI Infrastructure & Enterprise AI:** AI-ready infrastructure, private AI platforms, LLM infrastructure, and AI-driven IT automation
+* **AI Infrastructure & Enterprise AI:** AI ready infrastructure, private AI platforms, LLM infrastructure, and AI driven IT automation
 * **Cybersecurity & Resilience:** Infrastructure security, disaster recovery, business continuity, risk management, and IT governance
 
 ---
