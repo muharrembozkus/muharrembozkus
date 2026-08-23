@@ -14,25 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/muharrembozkus" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-2878B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  
-  <!-- Portfolio -->
-  <a href="https://www.credly.com/users/muharrem-bozkus/edit/badges/credly" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO-F26522?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <!-- Blog -->
-  <a href="https://medium.com/@muharrembozkus" target="_blank">
-    <img src="https://img.shields.io/badge/BLOG-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Blog" />
-  </a>
-<!-- Email -->
-  <a href="mailto:bmuharrem@hotmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+<p align="center"><a href="https://www.linkedin.com/in/muharrembozkus"><img src="https://img.shields.io/badge/LINKEDIN-003366?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://www.credly.com/users/muharrem-bozkus/edit/badges/credly"><img src="https://img.shields.io/badge/PORTFOLIO-4A5568?style=for-the-badge&logo=globe&logoColor=white" alt="Portfolio" /></a> <a href="https://medium.com/@muharrembozkus"><img src="https://img.shields.io/badge/TECH%20BLOG-1A202C?style=for-the-badge&logo=hashnode&logoColor=white" alt="Tech Blog" /></a> <a href="mailto:bmuharrem@hotmail.com"><img src="https://img.shields.io/badge/EMAIL-8B0000?style=for-the-badge&logo=minutemailer&logoColor=white" alt="Email" /></a></p>
 
 ---
 
