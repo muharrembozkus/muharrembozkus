@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm Muharrem Bozkuş! 👋
 
 <!--
 **muharrembozkus/muharrembozkus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/muharrembozkus" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-2878B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <!-- Email -->
+  <a href="mailto:bmuharrem@hotmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <!-- Portfolio -->
+  <a href="https://www.credly.com/users/muharrem-bozkus/edit/badges/credly" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO-F26522?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  </a>
+  <!-- Blog -->
+  <a href="https://medium.com/@muharrembozkus" target="_blank">
+    <img src="https://img.shields.io/badge/BLOG-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Blog" />
+  </a>
+</p>
