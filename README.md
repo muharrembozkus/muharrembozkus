@@ -37,16 +37,17 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I am a results-driven technology leader and **Senior IT Manager** with nearly two decades of leadership experience translating business strategy into technical execution. I specialize in driving large-scale IT transformations, cloud migration programs, and modern infrastructure operations across complex enterprise environments.
+I am a technology leader and **Senior IT Manager** with nearly two decades of experience leading large-scale IT transformations, cloud migration programs, and enterprise infrastructure operations.
 
-Throughout my career in telecommunications, data centers, and global enterprises, my focus has been building resilient, scalable, and cost-optimized ecosystems while leading high-performing engineering teams toward operational excellence. 
+My work sits at the intersection of **Enterprise IT, Cloud Infrastructure, Platform Engineering, and Artificial Intelligence**. I focus on building resilient, scalable, secure, and cost-efficient technology environments while modernizing legacy platforms and improving operational efficiency.
 
-I lead the convergence of **Enterprise IT and Artificial Intelligence**, embedding AI-driven automation into large-scale modernization initiatives to turn technological excellence into tangible business value.
+I have worked across telecommunications, data centers, and complex enterprise environments, leading engineering teams and large-scale technology programs from strategy through execution.
 
 **Areas of Expertise**
-* **Cloud & Infrastructure Engineering:** Architecting scalable environments utilizing Azure, VMware, Microsoft technologies, and Cisco networking.
-* **Enterprise IT Modernization:** Driving infrastructure automation, application modernization, and seamless legacy system decommissioning.
-* **Cybersecurity, Risk & Compliance:** Ensuring organizational resilience through disaster recovery, business continuity, and ITIL-aligned governance.
-* **High-Impact Program Leadership:** Steering multi-million-euro IT initiatives with strict adherence to timelines, budgets, and strategic goals.
+* **Cloud & Infrastructure Engineering:** Azure, VMware, Microsoft technologies, Cisco networking, virtualization, and data center platforms
+* **Platform Engineering & Automation:** Kubernetes, OpenShift, infrastructure automation, container platforms, and modern operating models
+* **Enterprise Modernization:** Cloud migration, application modernization, legacy transformation, and infrastructure lifecycle management
+* **AI Infrastructure & Enterprise AI:** AI-ready infrastructure, private AI platforms, LLM infrastructure, and AI-driven IT automation
+* **Cybersecurity & Resilience:** Infrastructure security, disaster recovery, business continuity, risk management, and IT governance
 
 ---
