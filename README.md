@@ -6,7 +6,7 @@
   <em>Connecting robust legacy foundations with tomorrow's AI driven tech ecosystem.</em>
 </p>
 
-
+<br>
 
 <!-- 2. ÖZEL DÜĞMELER / İLETİŞİM -->
 <p align="center">
