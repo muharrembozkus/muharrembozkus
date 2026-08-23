@@ -14,7 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center"><a href="https://www.linkedin.com/in/muharrembozkus"><img src="https://img.shields.io/badge/LINKEDIN-0F4C81?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> <a href="https://www.credly.com/users/muharrem-bozkus/edit/badges/credly"><img src="https://img.shields.io/badge/PORTFOLIO-4A5568?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a> <a href="https://medium.com/@muharrembozkus"><img src="https://img.shields.io/badge/TECH%20BLOG-2D3748?style=for-the-badge&logo=medium&logoColor=white" alt="Tech Blog" /></a> <a href="mailto:bmuharrem@hotmail.com"><img src="https://img.shields.io/badge/EMAIL-7B1113?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/muharrembozkus"><img src="linkedin.png" alt="LinkedIn" height="40" /></a>
+  <a href="https://www.credly.com/users/muharrem-bozkus/edit/badges/credly"><img src="portfolio.png" alt="Portfolio" height="40" /></a>
+  <a href="https://medium.com/@muharrembozkus"><img src="blog.png" alt="Tech Blog" height="40" /></a>
+  <a href="mailto:bmuharrem@hotmail.com"><img src="email.png" alt="Email" height="40" /></a>
+</p>
 
 ---
 
