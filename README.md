@@ -48,4 +48,4 @@ I lead the convergence of **Enterprise IT and Artificial Intelligence**, embeddi
 * **Cybersecurity, Risk & Compliance:** Ensuring organizational resilience through disaster recovery, business continuity, and ITIL-aligned governance.
 * **High-Impact Program Leadership:** Steering multi-million-euro IT initiatives with strict adherence to timelines, budgets, and strategic goals.
 
-> My strategic vision and hands-on technical grounding are validated by an extensive portfolio of industry-recognized credentials in cloud architecture, virtualization, networking, and enterprise governance.
+---
