@@ -50,8 +50,3 @@ I have worked across telecommunications, data centers, and complex enterprise en
 
 ---
 
-## Key Impact Metrics (Önerilen Ekleme)
-
-* **20+ Years** of IT Leadership & Infrastructure Operations
-* **Enterprise Modernization:** Led multi-million euro cloud & platform transformation initiatives
-* **Operational Excellence:** High-availability architecture design with strict SLA/DR compliance
