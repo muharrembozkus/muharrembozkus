@@ -1,29 +1,22 @@
-## Hi there, I'm Muharrem Bozkuş! 👋
+<!-- 1. BAŞLIK VE UNVAN -->
+<h1 align="center">Muharrem Bozkuş</h1>
+<h3 align="center">Senior IT Manager | Enterprise Infrastructure & AI Transformation Leader</h3>
 
-<!--
-**muharrembozkus/muharrembozkus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <p align="center">
-  <a href="https://www.linkedin.com/in/muharrembozkus"><img src="linkedin.png" alt="LinkedIn" height="40" /></a>
-  <a href="https://www.credly.com/users/muharrem-bozkus/edit/badges/credly"><img src="portfolio.png" alt="Portfolio" height="40" /></a>
-  <a href="https://medium.com/@muharrembozkus"><img src="blog.png" alt="Tech Blog" height="40" /></a>
-  <a href="mailto:bmuharrem@hotmail.com"><img src="email.png" alt="Email" height="40" /></a>
+  <em>Connecting robust legacy foundations with tomorrow's AI-driven tech ecosystem.</em>
+</p>
+
+<!-- 2. ÖZEL DÜĞMELER / İLETİŞİM -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/muharrembozkus"><img src="linkedin.png" alt="LinkedIn" height="38" /></a>
+  <a href="https://www.credly.com/users/muharrem-bozkus/edit/badges/credly"><img src="portfolio.png" alt="Portfolio" height="38" /></a>
+  <a href="https://medium.com/@muharrembozkus"><img src="blog.png" alt="Tech Blog" height="38" /></a>
+  <a href="mailto:bmuharrem@hotmail.com"><img src="email.png" alt="Email" height="38" /></a>
 </p>
 
 ---
 
-## About Me
+## Executive Overview
 
 I am a technology leader and **Senior IT Manager** with nearly two decades of experience leading large-scale IT transformations, cloud migration programs, and enterprise infrastructure operations.
 
@@ -31,11 +24,34 @@ My work sits at the intersection of **Enterprise IT, Cloud Infrastructure, Platf
 
 I have worked across telecommunications, data centers, and complex enterprise environments, leading engineering teams and large-scale technology programs from strategy through execution.
 
-**Areas of Expertise**
+---
+
+## Core Competencies
+
 * **Cloud & Infrastructure Engineering:** Azure, VMware, Microsoft technologies, Cisco networking, virtualization, and data center platforms
 * **Platform Engineering & Automation:** Kubernetes, OpenShift, infrastructure automation, container platforms, and modern operating models
 * **Enterprise Modernization:** Cloud migration, application modernization, legacy transformation, and infrastructure lifecycle management
-* **AI Infrastructure & Enterprise AI:** AI ready infrastructure, private AI platforms, LLM infrastructure, and AI driven IT automation
+* **AI Infrastructure & Enterprise AI:** AI-ready infrastructure, private AI platforms, LLM infrastructure, and AI-driven IT automation
 * **Cybersecurity & Resilience:** Infrastructure security, disaster recovery, business continuity, risk management, and IT governance
 
 ---
+
+## Technical Ecosystem & Leadership Stack
+
+<!-- Teknoloji rozetleri yönetici profilinde çok kalabalık durmadan yetkinlik gösterir -->
+<p>
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/VMware-607D8B?style=flat-square&logo=vmware&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/ITIL_Governance-002B49?style=flat-square&logo=opsgenie&logoColor=white" />
+</p>
+
+---
+
+## Key Impact Metrics (Önerilen Ekleme)
+
+* **20+ Years** of IT Leadership & Infrastructure Operations
+* **Enterprise Modernization:** Led multi-million euro cloud & platform transformation initiatives
+* **Operational Excellence:** High-availability architecture design with strict SLA/DR compliance
