@@ -6,6 +6,8 @@
   <em>Connecting robust legacy foundations with tomorrow's AI driven tech ecosystem.</em>
 </p>
 
+
+
 <!-- 2. ÖZEL DÜĞMELER / İLETİŞİM -->
 <p align="center">
   <a href="https://www.linkedin.com/in/muharrembozkus"><img src="linkedin.png" alt="LinkedIn" height="38" /></a>
