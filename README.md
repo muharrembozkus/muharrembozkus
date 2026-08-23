@@ -32,6 +32,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/BLOG-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Blog" />
   </a>
 </p>
+
 ---
 
 ## About Me
