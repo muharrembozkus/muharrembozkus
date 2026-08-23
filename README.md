@@ -13,8 +13,7 @@
   <a href="https://www.linkedin.com/in/muharrembozkus"><img src="linkedin.png" alt="LinkedIn" height="32" /></a>
   <a href="https://www.credly.com/users/muharrem-bozkus/edit/badges/credly"><img src="portfolio.png" alt="Portfolio" height="32" /></a>
   <a href="https://medium.com/@muharrembozkus"><img src="blog.png" alt="Tech Blog" height="32" /></a>
-  <a href="mailto:bmuharrem@hotmail.com"><img src="email.png" alt="Email" height="32" /></a>
-</p>
+ </p>
 
 ---
 
